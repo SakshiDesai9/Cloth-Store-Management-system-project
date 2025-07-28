@@ -29,7 +29,12 @@ This is a simple **Java-based Cloth Store Management System** that allows store 
 - **Language**: Java  
 - **IDE**: Eclipse  
 - **Database**: MY-SQL
-- **UI**:  Swing GUI 
+- **UI**:  Swing GUI
+
+  ----
+
+## 📸 Screenshots
+
 
 
 
