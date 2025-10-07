@@ -33,7 +33,7 @@ This is a simple **Java-based Cloth Store Management System** that allows store 
 
   ----
 
-## 📸 Screenshots
+
 
 
 
